@@ -1,0 +1,13 @@
+# Created @ 01.12.2008 by TheFox@fox21.at
+
+Requirements
+	- Perlmodule:
+		POSIX
+		IO::Select
+		IO::Socket::INET
+		Time::HiRes
+
+Description
+	TCP Pipe, Bridge, TCP to UDP, UDP to TCP.
+
+# EOF
