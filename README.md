@@ -1,7 +1,5 @@
-# tcppipe
-Create TCP to TCP, TCP to UDP, UDP to TCP and UDP to UDP pipes.
-
-Visit [fox21.at](http://fox21.at).
+# TCPPipe
+Create [TCP](http://en.wikipedia.org/wiki/Transmission_Control_Protocol) to TCP, TCP to [UDP](http://en.wikipedia.org/wiki/User_Datagram_Protocol), UDP to TCP and UDP to UDP pipes.
 
 ## License
 Copyright (C) 2013 Christian Mayer (<thefox21at@gmail.com> - <http://fox21.at>)
