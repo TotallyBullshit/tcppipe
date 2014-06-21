@@ -2,7 +2,7 @@
 Create [TCP](http://en.wikipedia.org/wiki/Transmission_Control_Protocol) to TCP, TCP to [UDP](http://en.wikipedia.org/wiki/User_Datagram_Protocol), UDP to TCP and UDP to UDP pipes.
 
 ## License
-Copyright (C) 2013 Christian Mayer (<thefox21at@gmail.com> - <http://fox21.at>)
+Copyright (C) 2013 Christian Mayer <http://fox21.at>
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
